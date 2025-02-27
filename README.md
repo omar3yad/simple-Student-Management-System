@@ -36,24 +36,6 @@ This is a Windows Forms application that manages student records using Entity Fr
 - **.NET Framework/.NET Core**
     
 
-## Installation
-
-1. Clone the repository:
-    
-    ```
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-    
-2. Open the project in **Visual Studio**.
-    
-3. Configure your database connection in `appsettings.json` (if applicable).
-    
-4. Run the migrations (if needed):
-    
-    ```
-    dotnet ef database update
-    ```
-    
 5. Build and run the project.
     
 
